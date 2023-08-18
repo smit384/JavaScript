@@ -10,7 +10,7 @@
  * @flow
  */
 
-// check if returned index is a local maxima
+// check if the returned index is a local maximum
 const IsMaximumPoint = (array, index) => {
   // handle array bounds
   // array start
